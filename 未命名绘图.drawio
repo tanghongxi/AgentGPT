@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="gBlgUbYeK6H6iG0PE7dt">
-    <mxGraphModel>
+    <mxGraphModel dx="4630" dy="2377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="atzDWvlatwnabKf19Kp3-1" value="## **原文**" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-3937" y="-1166" width="946" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="atzDWvlatwnabKf19Kp3-2" value="- 以正治国，以奇用兵，以无事取天下" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="atzDWvlatwnabKf19Kp3-1">
+          <mxGeometry y="26" width="946" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atzDWvlatwnabKf19Kp3-3" value="- 吾奚以知天下其然哉，以此" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="atzDWvlatwnabKf19Kp3-1">
+          <mxGeometry y="52" width="946" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atzDWvlatwnabKf19Kp3-4" value="- 夫天下多忌讳，而民弥贫。民多利器，国家滋昏。民多知慧，而邪事滋起。法令滋章，盗贼多有" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="atzDWvlatwnabKf19Kp3-1">
+          <mxGeometry y="78" width="946" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atzDWvlatwnabKf19Kp3-5" value="- 故圣人云：我无为，而民自化。我好静，而民自正。我无事，而民自富。我无欲，而民自朴" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="atzDWvlatwnabKf19Kp3-1">
+          <mxGeometry y="104" width="946" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atzDWvlatwnabKf19Kp3-6" value="## **含义**" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="atzDWvlatwnabKf19Kp3-1">
+          <mxGeometry y="130" width="946" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atzDWvlatwnabKf19Kp3-7" value="- 用正道治理国家，用奇谋指挥军事，用无为而治来获取天下。（指出不同方面的治理方法 ）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="atzDWvlatwnabKf19Kp3-1">
+          <mxGeometry y="156" width="946" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atzDWvlatwnabKf19Kp3-8" value="- 我怎么知道天下是这样的呢？就是根据这些。（依据现象总结治国道理 ）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="atzDWvlatwnabKf19Kp3-1">
+          <mxGeometry y="182" width="946" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atzDWvlatwnabKf19Kp3-9" value="- 天下的禁忌越多，百姓就越贫困。百姓的锐利武器越多，国家就越混乱。百姓的智谋越多，邪恶的事情就会层出不穷。法令越严明，盗贼反而越多。（说明过度治理的弊端 ）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="atzDWvlatwnabKf19Kp3-1">
+          <mxGeometry y="208" width="946" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atzDWvlatwnabKf19Kp3-10" value="- 所以圣人说：我无为，百姓就会自然归化；我好静，百姓就会自然端正；我无事，百姓就会自然富足；我无欲，百姓就会自然淳朴。（强调无为而治的效果 ）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="atzDWvlatwnabKf19Kp3-1">
+          <mxGeometry y="234" width="946" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
